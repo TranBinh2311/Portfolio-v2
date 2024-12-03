@@ -117,7 +117,7 @@ const experiences: TExperience[] = [
     companyName: "FPT Software",
     icon: fpt,
     iconBg: "#fff",
-    date: "Ocotober 2020 - March 2023",
+    date: "March 2020 - March 2023",
     points: [
       "Contributed to the development of an online platform providing access to licensed mental health professionals, including psychiatrists, therapists, and counselors, to support and treat various mental health conditions.",
     ],
